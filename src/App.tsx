@@ -17,7 +17,15 @@ function App() {
         {txt}
         <span>&#9608;</span>
       </div>
-      <input type="text" name="code-input" id="code-input" onChange={handleChange} />
+      <input
+        type="text"
+        inputMode="text"
+        name="code-input"
+        id="code-input"
+        onChange={handleChange}
+        autoFocus
+        onBlur={({ target }) => setTimeout(() => target.focus(), 1)}
+      />
     </div>
   );
 }

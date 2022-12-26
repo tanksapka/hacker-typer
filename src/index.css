@@ -52,9 +52,16 @@ body::after {
 }
 
 #code-input {
-  caret-shape: block;
-  caret-color: lime;
+  color: rgba(0, 0, 0, 0);
+  caret-color: rgba(0, 0, 0, 0);
   background-color: inherit;
+  border: none;
+  cursor: default;
+}
+
+#code-input:focus {
+  outline: none;
+  cursor: default;
 }
 
 @keyframes blink {
