@@ -64,6 +64,12 @@ body::after {
   cursor: default;
 }
 
+@media (max-width: 800px) {
+  .code {
+    font-size: 1.8vw;
+  }
+}
+
 @keyframes blink {
   from,
   to {
