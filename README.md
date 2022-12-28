@@ -1,3 +1,18 @@
+# Unleash the hacker inside you!
+
+Open up the hacking page and start typing! The rest should be straightforward!
+
+# Sources
+
+## Codebase
+
+https://github.com/secdev/scapy/blob/master/scapy/layers/dns.py
+
+## CRT effect in CSS
+
+http://aleclownes.com/2017/02/01/crt-display.html \
+"Hacking needs CPU power" - Be aware that these effects might increase CPU usage of your browser!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
