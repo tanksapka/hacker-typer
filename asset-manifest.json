@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hacker-typer/static/css/main.17da8815.css",
+    "main.js": "/hacker-typer/static/js/main.9d2e882b.js",
+    "static/js/787.48a284b5.chunk.js": "/hacker-typer/static/js/787.48a284b5.chunk.js",
+    "index.html": "/hacker-typer/index.html",
+    "main.17da8815.css.map": "/hacker-typer/static/css/main.17da8815.css.map",
+    "main.9d2e882b.js.map": "/hacker-typer/static/js/main.9d2e882b.js.map",
+    "787.48a284b5.chunk.js.map": "/hacker-typer/static/js/787.48a284b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17da8815.css",
+    "static/js/main.9d2e882b.js"
+  ]
+}
